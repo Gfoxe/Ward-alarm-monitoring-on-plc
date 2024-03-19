@@ -26,7 +26,7 @@ PLC
 
 
   GOT面板报警监控系统界面功能介绍：
-![image](https://github.com/Gfoxe/Ward-alarm-monitoring-on-plc/edit/main/TEST.png)
+![image](https://github.com/Gfoxe/Ward-alarm-monitoring-on-plc/blob/main/TEST.png)
 1. 呼叫信息显示:
 
     视图刷新时，显示正在呼叫的病房列表。
