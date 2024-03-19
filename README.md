@@ -1,5 +1,7 @@
 # -
-PLC
+基本流程
+![image](https://github.com/Gfoxe/Ward-alarm-monitoring-on-plc/blob/main/系统流程图.png)
+
 系统启动与停止:
 
     按下 “启动” 按钮 (X0) 启动系统：
