@@ -1,4 +1,6 @@
 # -
+本方案使用 三菱FX3U32MT/ES + 工控触摸面板GT27**V 实现警报监控系统
+
 基本流程
 ![image](https://github.com/Gfoxe/Ward-alarm-monitoring-on-plc/blob/main/系统流程图.png)
 
